@@ -44,7 +44,7 @@ We want a place for users to keep track of their caloric intake.
   * Each time an entry is made in the list, calculate the sum of all the calories and set this as the `value` attribute of the `#progress-bar` element.
 * A user can delete a calorie intake entry by clicking the respective trash icon. You decide between optimistic or pessistic rendering.
 * When clicking the pencil icon, a modal will appear.
-  * This modal should contain a form pre-populated with the information from the respective calorie-entry.
+  * This modal should contain a form pre-populated with the   from the respective calorie-entry.
   * clicking anywhere outside the modal will cause the modal to disappear.
   * clicking the 'Save Changes' button in the modal form will update that entry on the front-end as well as the backend, we would like this to happen pessimistically.
   * This feature is complicated, we think you should work on it last.
